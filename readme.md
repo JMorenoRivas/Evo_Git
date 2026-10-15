@@ -10,4 +10,5 @@ La idea es que cada persona:
 ## Reglas
     - Cada receta debe estar en su propio archivo
     - Usar nombre cortos
-    - Escribir ingredientes y pasosls -
+    - Escribir ingredientes y pasos
+    - Nuevos postres deben ser agregados en la carpeta postres
